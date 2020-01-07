@@ -32,10 +32,10 @@ then you can start your journey!
   npm run build
 ```
 
-2. change file-path in /build/index.html like:
+2. change file-path with 'public' in /build/index.html like:
 
-from ......\public\umi.css
-to ......\build\umi.css
+    from ...\public\...
+    to ...\build\...
 
 3. pack electron app:
 
