@@ -39,7 +39,7 @@
     "@types/react-test-renderer": "^16.0.3",
     "babel-eslint": "^9.0.0",
     "concurrently": "^5.0.2",
-    "electron": "^6.1.7",
+    "electron": "^9.1.0",
     "electron-builder": "^21.2.0",
     "eslint": "^5.4.0",
     "eslint-config-umi": "^1.4.0",
